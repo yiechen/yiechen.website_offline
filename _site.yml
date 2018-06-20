@@ -1,0 +1,15 @@
+name: Matthew J. Kmiecik
+output_dir: '.'
+exclude: README.md
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      in_header: google-analytics.html
+      before_body: icons.html
+      after_body: footer.html
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
