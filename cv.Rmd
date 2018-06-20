@@ -1,0 +1,166 @@
+---
+title: <center>YieChen Yiu, B.S.<center>
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+---
+
+```{r setup, echo=F}
+library(knitr); library(kableExtra)
+
+# suppresses warnings globally
+knitr::opts_chunk$set(warning = F, message = F, echo = F, cache = F)
+options(knitr.table.format = 'html') # For the html tables
+
+```
+
+<!-- social icons bar START-->
+<div class="social-icons">
+<ul>
+<li><a href="mailto:yiechen@gmail.com"><i class="fa fa-envelope faa-horizontal animated-hover" aria-hidden="true"></i></a></li>
+<li><a href="https://twitter.com/yiechen"><i class="fa fa-twitter faa-horizontal animated-hover" aria-hidden="true"></i></a></li>
+<li><a href="https://www.linkedin.com/in/yie-chen-yiu-98b670b9"><i class="fa fa-linkedin faa-horizontal animated-hover" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/yiechen"><i class="fa fa-github faa-horizontal animated-hover" aria-hidden="true"></i></a></li>
+</ul>
+</div>
+<!-- social icons bar END-->
+
+<br />
+
+# Education
+<hr />
+
+<!-- UFF -->
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 col-sm-2">
+<img class="schoollogo center-block" width="100" height="100" src="images/uff-logo.png">
+</div>
+<div class="col-xs-12 col-sm-10">
+**Master's Degree (2007 - 2009)**<br/>
+Decision Making Process and Models <br/>
+Economic Science Department <br/>
+Universidade Federal Fluminense <br/>
+</div>
+</div>
+</div>
+
+<br />
+
+<!-- PUC -->
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 col-sm-2">
+<img class="schoollogo center-block" width="100" height="100" src="images/puc-shield.png">
+</div>
+<div class="col-xs-12 col-sm-10">
+**B.S. Economics (2002 - 2006)** <br/>
+Degree Honors: Cum Laude? <br/>
+Minors: - <br/>
+Pontifícia Universidade Católica do Rio de Janeiro (PUC - Rio) <br/>
+</div>
+</div>
+</div>
+
+<br />
+
+# Publications
+<hr />
+<br />
+
+# Conference Participation
+<hr />
+<br />
+
+## Talks
+<hr />
+<br />
+
+# Teaching Experience
+<hr />
+<br />
+
+# Training and Certifications
+<hr />
+
+```{r training}
+training <- data.frame(Year = c(2016, 2016),
+                       Month = c('May','November'),
+                       `Training/Certifications` = c('Empty #1',
+                                                  'Empty #2'),
+                       Institution = c('University of Something',
+                                       'The University of Somewhere'),
+                       check.names = F)
+
+kable(training) %>%
+  kable_styling(bootstrap_options = c('striped', 'hover', 'responsive'))
+
+```
+
+<br />
+
+# Skills
+<hr />
+
+<div class="container-fluid"> <!-- Skill Container -->
+<!-- Skill: Microsoft Suite START -->
+<div class="row"> 
+<div class="col-md-3">
+<span class="progress-label">Microsoft Suite</span> <!-- Skill Name-->
+</div>
+<div class="col-md-9">
+<div class="progress progress-skill">
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100" style="width:98%;"> <!-- Skill Proficiency-->
+</div>
+</div>
+</div>
+</div> 
+<!-- Skill: Microsoft Suite END -->
+<!-- Skill: R START -->
+<div class="row"> 
+<div class="col-md-3">
+<span class="progress-label">R/RStudio</span> <!-- Skill Name-->
+</div>
+<div class="col-md-9">
+<div class="progress progress-skill">
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100" style="width:92%;"> <!-- Skill Proficiency-->
+</div>
+</div>
+</div>
+</div> 
+<!-- Skill: R END -->
+<!-- Skill: MATLAB START -->
+<div class="row"> 
+<div class="col-md-3">
+<span class="progress-label">MATLAB</span> <!-- Skill Name-->
+</div>
+<div class="col-md-9">
+<div class="progress progress-skill">
+<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%;"> <!-- Skill Proficiency-->
+</div>
+</div>
+</div>
+</div> 
+<!-- Skill: MATLAB END -->
+
+<!-- Skill: HTML/CSS START -->
+<div class="row"> 
+<div class="col-md-3">
+<span class="progress-label">HTML/CSS</span> <!-- Skill Name-->
+</div>
+<div class="col-md-9">
+<div class="progress progress-skill">
+<div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="width:25%;"> <!-- Skill Proficiency-->
+</div>
+</div>
+</div>
+</div> 
+<!-- Skill: HTML/CSS END -->
+</div> <!-- Skill Container -->
+
+
+

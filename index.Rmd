@@ -1,0 +1,67 @@
+---
+title: ""
+---
+
+<br>
+
+<!-- MY BLOGS -->
+
+<h2><span class="fa fa-paper-plane-o" aria-hidden="true"></span> My Blogs</h2> 
+<hr>
+
+<h3><span class="fa fa-newspaper-o" aria-hidden="true"></span><a href="academicblog.html"> Academic Blog</a></h3> 
+
+<span class="label label-primary">Academic</span>
+<span class="label label-default">R</span>
+<span class="label label-success">Economics</span>
+<span class="label label-warning">Demographics</span>
+
+As a economist, my projects are a blend of economics, demographics, computer science and statistics principles. This blog serves mainly as a resource to myself (so I can refer to how I did something), but also aims to teach others.
+
+<h3><span class="fa fa-newspaper-o" aria-hidden="true"></span><a href="ontheline.html"> On The Line</a></h3> 
+
+<span class="label label-info">Sports Analytics</span>
+<span class="label label-default">R</span>
+<span class="label label-danger">Simulation</span>
+
+I love the sports in general. In my spare time, I like to apply some of the statistical techniques that I've learned and researched to sports data. This sports analytics blog serves to help hone my data science skills, teach R, and (hopefully) provide new insights to this amazing theme.
+
+<br>
+
+<!-- RECENT POSTS -->
+
+<h2><span class="fa fa-file-text-o" aria-hidden="true"></span> Recent Posts</h2> 
+<hr>
+
+<!-- 2018 March Madness -->
+
+<h3><span class="fa fa-sticky-note-o" aria-hidden="true"></span><a href="post-Simulating-2018-NCAA-March-Madness-Tournament-Performance-in-R.html" class="postLink"> Simulating 2018 NCAA March Madness Tournament Performance in R</a></h3>
+
+<span class="glyphicon glyphicon-time"></span> March 20, 2018
+<span class="label label-primary">Academic</span>
+<span class="label label-default">R</span>
+
+When a bunch of grad students get together to simulate college basketball tournament performance using R.
+
+<br>
+
+<!-- Lit Review -->
+
+<h3><span class="fa fa-sticky-note-o" aria-hidden="true"></span><a href="post-Writing-a-Literature-Review.html" class="postLink"> Writing a Literature Review</a></h3>
+
+<span class="glyphicon glyphicon-time"></span> September 25, 2017
+<span class="label label-primary">Academic</span>
+
+A post about writing my first literature review. Things that worked/did not work for me.
+
+<br>
+
+
+<!-- disqus comment counter LEAVE HERE AT BOTTOM OF INDEX -->
+<script id="dsq-count-scr" src="//mattkmiecik.disqus.com/count.js" async></script> 
+
+
+
+
+
+

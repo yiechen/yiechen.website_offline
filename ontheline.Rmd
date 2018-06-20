@@ -1,0 +1,22 @@
+---
+title: "On The Line"
+---
+
+My infatuation (some say obsession) with sports began during my post-graduation. I was fortunate enough to see most of Roger Federer's Grand Slam titles while I restarted to play tennis in a weekly basis, but that was just the start. As I have grown to appreciate and love tennis, I found another outlet to further submerse myself into sports — baseball mangas! Actually, it started with a renewed apreciation for Michiru Adachi's mangas and how he portrayed the difference between intent and results in sports and life. And so I delved deep into many sports rules and its history and evolution, specially in baseball... which finally led me into a final obsession - statistics! A few ideas I have played around with have been the context of play, specific match-ups, strength of schedule, potential trends across time, and seeing if there is anything that can predict the likelihood of Federer's Grand Slam success!
+
+Doors closing… Welcome, life is On The Line.
+
+<h2><span class="fa fa-file-text-o" aria-hidden="true"></span> Posts</h2> 
+<hr>
+
+<!-- 2018 March Madness -->
+
+<h3><span class="fa fa-sticky-note-o" aria-hidden="true"></span><a href="post-Simulating-2018-NCAA-March-Madness-Tournament-Performance-in-R.html" class="postLink"> Simulating 2018 NCAA March Madness Tournament Performance in R</a></h3>
+
+<span class="glyphicon glyphicon-time"></span> March 20, 2018
+<span class="label label-primary">Academic</span>
+<span class="label label-default">R</span>
+
+A few of us graduate students decided it would be fun to simulate this year's NCAA Men's National Championship tournament using R. When we all met to discuss our method to simuluate tournament performance, we quickly realized several methods emerged...
+
+<br>
