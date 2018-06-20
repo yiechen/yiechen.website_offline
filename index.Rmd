@@ -4,6 +4,10 @@ title: ""
 
 <br>
 
+This page is still under construction, keep calm!
+
+<br>
+
 <!-- MY BLOGS -->
 
 <h2><span class="fa fa-paper-plane-o" aria-hidden="true"></span> My Blogs</h2> 
@@ -57,8 +61,6 @@ A post about writing my first literature review. Things that worked/did not work
 <br>
 
 
-<!-- disqus comment counter LEAVE HERE AT BOTTOM OF INDEX -->
-<script id="dsq-count-scr" src="//mattkmiecik.disqus.com/count.js" async></script> 
 
 
 
