@@ -11,7 +11,7 @@ output:
       smooth_scroll: true
 ---
 
-```{r setup, echo=F}
+```{r setup, echo=F, warning=FALSE}
 library(knitr); library(kableExtra)
 
 # suppresses warnings globally
